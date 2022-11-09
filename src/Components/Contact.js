@@ -5,7 +5,7 @@ function Contact() {
     <table >
       <thead>
         <tr>
-          <th >✉ Contact Me! 📞</th>
+          <th>✉ Contact Me! 📞</th>
         </tr>
       </thead>
       <tbody>

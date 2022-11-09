@@ -10,7 +10,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: beige;
+  background-color: #FCE2DB;
   
   
 }
@@ -28,14 +28,14 @@ font-style: italic;
 }
 
 header h1 {
-  color: purple;
+  color: #FF8FB1;
   margin:0;
   font-family: "McLaren", cursive;
   font-weight: 200;
 
 }
 header h1:hover {
-  color: red;
+  color: #80489C;
   margin:0;
   font-family: "McLaren", cursive;
   font-weight: 200;
@@ -46,7 +46,7 @@ header h1:hover {
   border-radius: 25px 25px 0 0;
   height: 230px;
   width: 100%;
-  background-color: pink;
+  background-color: #432C7A;
   position: absolute;
   top: 0;
   right:0;
@@ -72,7 +72,7 @@ code {
 
 .circle-img {
   border-radius: 50%;
-  border: 7px solid purple;
+  border: 7px #432C7A;
   width: 120px;
   height: 120px;
   margin-left: 100px;
@@ -80,15 +80,15 @@ code {
 
 .circle-img:hover {
   
-  border: 7px solid red;
+  border: 7px solid #FF8FB1;
   
 }
 
 table{
   
   border-collapse: collapse;
-  background-color: beige;
-  color: blueviolet;
+  background-color: #FCE2DB;
+  color: #80489C;
   text-align: center;
   vertical-align: middle;
   justify-content: center;
@@ -97,10 +97,18 @@ column-span: all;
 width: 100%;
 
 }
+table:hover{
+  
+  color: #FF8FB1;
+
+}
+a{
+  color: #432C7A ;
+}
 hr{
-  background-color: beige;
+  background-color: #FCE2DB;
   border-style: dotted none none ;
-  border-color: purple;
+  border-color: #FF8FB1;
   border-width: 10px;
   height: 10px;
   margin: auto;
@@ -111,7 +119,7 @@ hr{
 }
 
 th td{
-  border: 10px solid black;
+  border: 10px solid red;
   padding: 8px;
 }
 .name {
@@ -130,7 +138,7 @@ footer {
 }
 
 footer p {
-  color: #ccc;
+  color: #FF8FB1;
 }
 
 .lbi{
