@@ -14,6 +14,7 @@ return (
     <div>
 <Header/>
 <hr></hr>
+<hr></hr>
 <Contact/>
 <hr></hr>
 <Info/>
