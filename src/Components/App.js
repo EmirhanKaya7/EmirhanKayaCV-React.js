@@ -13,7 +13,7 @@ function App(){
 return (
     <div>
 <Header/>
-<hr></hr>
+
 <hr></hr>
 <Contact/>
 <hr></hr>
