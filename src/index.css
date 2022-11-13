@@ -45,7 +45,7 @@ header h1:hover {
 
 .top {
   border-radius: 25px 25px 0 0;
-  height: 26%;
+  height: 230px;
   width: 100%;
   background-color: #432C7A;
   position: absolute;
@@ -54,6 +54,7 @@ header h1:hover {
   left: 0;
   display: flex;
   flex: 1;
+  margin-bottom: 15%;
 }
 
 img{
@@ -113,8 +114,8 @@ hr{
   border-width: 10px;
   height: 10px;
   margin: auto;
-  margin-top: 8px;
-  margin-bottom: 8px;
+  margin-top: 15px;
+  margin-bottom: 10px;
   width: 60%;
   
 }
@@ -129,8 +130,8 @@ th td{
   flex: 1;
   margin-left: 15% ;
   margin-top: 5%;
-  padding: 0;
-  margin-bottom: 30%;
+ 
+  
 }
 footer {
   text-align: center;
