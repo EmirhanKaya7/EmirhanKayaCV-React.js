@@ -30,15 +30,16 @@ font-style: italic;
 header h1 {
   color: #FF8FB1;
   margin:0;
-  font-family: "McLaren", cursive;
-  font-weight: 200;
+  font-family: "Sacramento", cursive;
+  font-weight: 300;
+  
 
 }
 header h1:hover {
   color: #80489C;
   margin:0;
-  font-family: "McLaren", cursive;
-  font-weight: 200;
+  font-family: "Sacramento", cursive;
+  font-weight: 300;
 
 }
 
@@ -126,6 +127,7 @@ th td{
   display: flex;
   font-size: xx-large;
   flex: 1;
+
   margin-left: 15% ;
   margin-top: 5%;
   padding: 0;
