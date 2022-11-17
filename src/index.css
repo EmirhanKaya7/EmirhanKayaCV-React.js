@@ -30,7 +30,7 @@ font-style: italic;
 header h1 {
   color: #FF8FB1;
   margin:0;
-  
+  position: relative;
   font-family: "McLaren", cursive;
   font-weight: 200;
   
@@ -41,7 +41,7 @@ header h1:hover {
   margin:0;
   font-family: "McLaren", cursive;
   font-weight: 200;
-
+  position: relative;
 }
 
 .top {
@@ -126,11 +126,11 @@ hr{
   display: flex;
   font-size: xx-large;
   flex: 1;
-  margin-left: 15% ;
-  margin-top: 5%;
+  margin-left: 33% ;
+  margin-top: 4%;
   align-self: stretch;
   justify-content: start;
-  
+  position: absolute;
 }
 footer {
   text-align: center;
