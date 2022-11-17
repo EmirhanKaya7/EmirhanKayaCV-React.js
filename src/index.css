@@ -31,17 +31,19 @@ header h1 {
   color: #FF8FB1;
   margin:0;
   position: relative;
-  font-family: "McLaren", cursive;
-  font-weight: 200;
+  
+  font-family: "Sacramento", cursive;
+  font-weight: 300;
   
 
 }
 header h1:hover {
   color: #80489C;
   margin:0;
-  font-family: "McLaren", cursive;
-  font-weight: 200;
   position: relative;
+  font-family: "Sacramento", cursive;
+  font-weight: 300;
+
 }
 
 .top {
