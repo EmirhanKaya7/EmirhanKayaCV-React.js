@@ -17,12 +17,8 @@ import { Projects } from "./Pages/Projects/Projects";
            
 
                 <Route path="/" element = {<HomePage/>}/>
-                <Route path="https://emirhankayacv.net/projects" element = {<Projects/>}/>
+                <Route path="/projects" element = {<Projects/>}/>
                 
-                
-                
-
-
             </Route>
             </Routes>
         </Router>
