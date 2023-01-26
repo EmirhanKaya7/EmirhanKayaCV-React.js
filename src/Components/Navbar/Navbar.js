@@ -13,7 +13,7 @@ export const Navbar = ()=>{
             <h3>Emirhan</h3>
             <nav className = "nav"ref={navRef}>
                 <a href="/">Home</a>
-                <a href="/projects">Projects</a>
+                <a href="https://emirhankayacv.net/projects">Projects</a>
                 <a href="/#">Contact</a>
                 <a href="/#">Emirhan</a>
                 <button className="nav-btn nav-close-btn" onClick={showNavbar}>
